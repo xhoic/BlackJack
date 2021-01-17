@@ -110,7 +110,7 @@ def play():
                 print()
                 print()
             else:
-                print('No winer.')
+                print('No winner.')
                 print()
                 print()
             player1 = 0
